@@ -1,1 +1,1 @@
-# data-gathering-using-bing-serach-api
+# data-gathering-using-bing-search-api
